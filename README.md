@@ -36,11 +36,11 @@ Este projeto tem como objetivo simular a disponibilidade, e por fim, a adoção 
   * Banco de dados MongoDB, crie uma conevxão com o nome getapet
   * crie duas collections - pets e users   
 
-  No backend, pelo terminal do Vscod digite
+### No backend, pelo terminal do Vscod digite
      * npm install 
      * npm start, espere o banco se conectar 
 
-  No frontend , pelo terminal do Vscod digite
+### No frontend , pelo terminal do Vscod digite
      * npm install 
      * npm start, espere o seu navegador padrão iniciar
 
