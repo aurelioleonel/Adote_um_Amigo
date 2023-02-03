@@ -40,7 +40,7 @@ Este projeto tem como objetivo simular a disponibilidade, e por fim, a adoção 
      npm install 
      npm start, espere o banco se conectar 
 
-  no fromtend , pelo terminal do Vscod digite
+  no frontend , pelo terminal do Vscod digite
      npm install 
      npm start, espere o seu navegador padrão iniciar
 
