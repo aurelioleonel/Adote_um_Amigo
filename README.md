@@ -21,28 +21,28 @@ Este projeto tem como objetivo simular a disponibilidade, e por fim, a adoção 
 * Ícones de reação.
 ###  Prints do App (Versão Desktop)
 ####  Páginas que não precisam de login
-  Página inicial
-  Página para visualizar Pet
-  Página de registro-se
-  Página de login
+  * Página inicial
+  * Página para visualizar Pet
+  * Página de registro-se
+  * Página de login
 
 ####  Páginas que precisam de autenticação
-  Página de Pets do usuário
-  Página de adoções do usuário
-  Página de edição de Pet
-  Página de edição do usuário
+  * Página de Pets do usuário
+  * Página de adoções do usuário
+  * Página de edição de Pet
+  * Página de edição do usuário
 
 ### Configuração do projeto
-  Banco de dados MongoDB, crie uma conevxão com o nome getapet
-  crie duas collections - pets e users   
+  * Banco de dados MongoDB, crie uma conevxão com o nome getapet
+  * crie duas collections - pets e users   
 
-  no backend, pelo terminal do Vscod digite
-     npm install 
-     npm start, espere o banco se conectar 
+  No backend, pelo terminal do Vscod digite
+     * npm install 
+     * npm start, espere o banco se conectar 
 
-  no frontend , pelo terminal do Vscod digite
-     npm install 
-     npm start, espere o seu navegador padrão iniciar
+  No frontend , pelo terminal do Vscod digite
+     * npm install 
+     * npm start, espere o seu navegador padrão iniciar
 
 Gostaria de ver o repositório do Backend deste app?
 [ Clique aqui ](https://github.com/aurelioleonel/Adote_um_Amigo.git)
@@ -50,5 +50,6 @@ Gostaria de ver o repositório do Backend deste app?
 Obrigado a todos.
 
 Marcos Aurélio Leonel
-  https://github.com/aurelioleonel
+  * https://github.com/aurelioleonel
+  * https://www.linkedin.com/in/aurelioleonel/
   
