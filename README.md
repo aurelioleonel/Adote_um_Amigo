@@ -46,3 +46,9 @@ Este projeto tem como objetivo simular a disponibilidade, e por fim, a adoção 
 
 Gostaria de ver o repositório do Backend deste app?
 [ Clique aqui ](https://github.com/aurelioleonel/Adote_um_Amigo.git)
+
+Obrigado a todos.
+
+Marcos Aurélio Leonel
+  https://github.com/aurelioleonel
+  
