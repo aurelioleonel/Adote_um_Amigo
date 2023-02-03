@@ -32,5 +32,17 @@ Este projeto tem como objetivo simular a disponibilidade, e por fim, a adoção 
   Página de edição de Pet
   Página de edição do usuário
 
+### Configuração do projeto
+  Banco de dados MongoDB, crie uma conevxão com o nome getapet
+  crie duas collections - pets e users   
+
+  no backend, pelo terminal do Vscod digite
+     npm install 
+     npm start, espere o banco se conectar 
+
+  no fromtend , pelo terminal do Vscod digite
+     npm install 
+     npm start, espere o seu navegador padrão iniciar
+
 Gostaria de ver o repositório do Backend deste app?
 [ Clique aqui ](https://github.com/aurelioleonel/Adote_um_Amigo.git)
